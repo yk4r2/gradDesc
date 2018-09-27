@@ -1,0 +1,3 @@
+gradDesc
+
+Gradient descent algorythm
